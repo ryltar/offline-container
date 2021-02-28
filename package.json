@@ -80,6 +80,11 @@
     "typescript": "^3.0.3"
   },
   "dependencies": {
-    "localforage": "^1.9.0"
+    "@types/pouchdb": "^6.4.0",
+    "axios": "^0.21.1",
+    "localforage": "^1.9.0",
+    "localforage-indexes": "^1.1.1",
+    "pouchdb": "^7.2.2",
+    "pouchdb-find": "^7.2.2"
   }
 }
